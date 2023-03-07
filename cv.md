@@ -8,7 +8,7 @@
 I am a UX/UI designer with 2 years of commercial experience who wants to understand the front-end better in order to improve my work. 
 And perhaps in the future I will completely relearn to be a front-end developer.
 
-I expect that this course will expand my  JS/Front-end knowledge 
+I expect that this course will expand my  JS/Front-end knowledge. 
 ㅤㅤ
 ㅤㅤ
 ㅤㅤ
@@ -94,7 +94,7 @@ Illia Sakharau (@Illia-Sakharau)
 ## Projects
 
 * CV - [Link to GitHub](https://github.com/Illia-Sakharau/rsschool-cv/blob/38e2c4f5882ec0d1ef5fd971705809adebf7d425/cv.md "GitHub - CV - Illia Sakharau")
-* Animate SVG Loader - Link to CodePen: [CSS](https://codepen.io/Sakharau/pen/jOxwgXR "Animate SVG by CSS") | [SMIL](https://codepen.io/Sakharau/pen/yLjbKER "Animate SVG by SMIL")
+* Animate SVG Loader - Link to CodePen: [CSS](https://codepen.io/Sakharau/pen/jOxwgXR "Animate SVG by CSS") / [SMIL](https://codepen.io/Sakharau/pen/yLjbKER "Animate SVG by SMIL")
 
 
 ---
