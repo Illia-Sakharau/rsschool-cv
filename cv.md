@@ -1,6 +1,6 @@
 
 # Sakharau Illia
-<img src="../rsschool-cv/src/avatar.png"  width="110" style="float:left; z-index:9999; margin-right: 20px">
+<img src="/rsschool-cv/src/avatar.png"  width="110" style="float:left; z-index:9999; margin-right: 20px">
 
 ## UX/UI Designer
 
